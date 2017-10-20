@@ -1,4 +1,4 @@
-# Install above packages
+# Install below packages
 require(ggplot2)
 require(arulesViz)
 require(plyr)
